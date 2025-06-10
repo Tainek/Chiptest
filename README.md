@@ -1,6 +1,8 @@
 Clean Architecture, MVVM, Compose
 Darkmode Compatible
 Localization Friendly
+
+
 For some UI/UX flair, instead of effort to decorate the lists I have Included an onboarding tutorial. I felt this added more opportunity to demonstrate clean architecture/state management.
 
 
