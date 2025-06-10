@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chiptest</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="get_started">Get Started</string>
+    <string name="breed_view">Breed View</string>
+    <string name="gallery_view">Gallery View</string>
+    <string name="scroll_through_breeds">Scroll through the list of breeds</string>
+    <string name="click_gallery">Click a breed to see a gallery of images</string>
+</resources>

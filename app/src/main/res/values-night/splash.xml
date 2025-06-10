@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="App.Splash.Theme" parent="Theme.SplashScreen">
+        <item name ="windowSplashScreenBackground">#1C1E21</item>
+        <item name ="windowSplashScreenAnimatedIcon">@drawable/splashdog</item>
+        <item name ="postSplashScreenTheme">@style/Theme.Chiptest</item>
+    </style>
+
+</resources>
